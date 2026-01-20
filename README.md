@@ -55,6 +55,7 @@ Each state is maintained for a predefined number of clock cycles before transiti
 
 STATE DIAGRAM
 ![image alt](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/b6d55d9929acf9d295adb924775915ae8a83a687/ChatGPT%20Image%20Jan%2020%2C%202026%2C%2002_01_56%20PM.png)
+![image alt](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/c6a9e5cd967a942113655ca0149c18317ba15d41/Finite-state-machine-for-traffic-signal_Q320.jpg)
 BLOCK DIAGRAM
 DESIGN NOTES
 
