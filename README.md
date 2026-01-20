@@ -54,7 +54,7 @@ RED → GREEN → YELLOW → RED
 Each state is maintained for a predefined number of clock cycles before transitioning to the next state.
 
 STATE DIAGRAM
-
+![image alt](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/b6d55d9929acf9d295adb924775915ae8a83a687/ChatGPT%20Image%20Jan%2020%2C%202026%2C%2002_01_56%20PM.png)
 BLOCK DIAGRAM
 DESIGN NOTES
 
