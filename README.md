@@ -55,7 +55,7 @@ STATE DIAGRAM
 ![image alt](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/c6a9e5cd967a942113655ca0149c18317ba15d41/Finite-state-machine-for-traffic-signal_Q320.jpg)
 
 ![image alt](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/a8873c009fc9337ff08bc2440c9c1555cc8ddaa9/Traffic_image.png)
-<img src="images/traffic_light_fsm.png" width="350">
+<[img](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/a8873c009fc9337ff08bc2440c9c1555cc8ddaa9/Traffic_image.png) src="images/traffic_light_fsm.png" width="350">
 
 
 
