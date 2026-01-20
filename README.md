@@ -48,18 +48,17 @@ The controller activates the YELLOW signal, warning that the signal will soon re
 
 State Sequence
 RED → GREEN → YELLOW → RED
-
-
-
 Each state is maintained for a predefined number of clock cycles before transitioning to the next state.
 
 STATE DIAGRAM
+
 ![image alt](https://github.com/Bhaskar-Repana/Verification-of-Traffic_Controller-using-UVM/blob/c6a9e5cd967a942113655ca0149c18317ba15d41/Finite-state-machine-for-traffic-signal_Q320.jpg)
 
 
 BLOCK DIAGRAM
-DESIGN NOTES
 
+
+DESIGN NOTES
 • Moore FSM ensures stable outputs
 • Reset guarantees a safe startup condition
 • Clock-driven design simplifies timing analysis
